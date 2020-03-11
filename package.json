@@ -1,0 +1,27 @@
+{
+  "name": "nodeproject",
+  "version": "1.0.0",
+  "description": "Still tryna learn me some node.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "index": "node app.js",
+    "audit": "text_audit -t TODO TESTME FIXME RUNME console"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ehawk82/nodeProject.git"
+  },
+  "author": "Jason Graziano",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ehawk82/nodeProject/issues"
+  },
+  "homepage": "https://github.com/Ehawk82/nodeProject#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "formidable": "^1.2.2",
+    "text_audit": "^0.9.3"
+  },
+  "devDependencies": {}
+}
