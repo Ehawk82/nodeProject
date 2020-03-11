@@ -1,6 +1,6 @@
 {
   "name": "nodeproject",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Still tryna learn me some node.",
   "main": "index.js",
   "scripts": {
