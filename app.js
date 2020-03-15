@@ -19,7 +19,7 @@ app.post('/', function (req, res){
     });
 
     form.on('file', function (name, file){
-        var fn = '<img src="/'+file.name+'" onclick="makeBig(this)" minheight="50px" maxheight="50px"  height="50" width="auto" />';
+        var fn = '<img src="/'+file.name+'" class="item" onclick="makeBig(this)" minheight="50px" maxheight="50px"  height="50" width="auto" />';
         fs.appendFile('log.html', fn, function (err) {
           if (err) throw err;
         });
