@@ -23,7 +23,6 @@ app.post('/', function (req, res){
         fs.appendFile('log.html', fn, function (err) {
           if (err) throw err;
         });
-        console.log('Uploaded ' + fn);
     });
 
     res.sendFile(__dirname + '/uploaded.html');
