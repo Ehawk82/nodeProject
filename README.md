@@ -7,4 +7,9 @@
 <code> npm run index </code>
 
 <h2>TEST</h2>
-<caption>This program can upload multiple images and view them as clickable thumbnails to enlarge them</caption>
+<caption>
+	This program can upload multiple images and view them as clickable thumbnails to enlarge them
+</caption>
+<caption>
+	SERVER: http://localhost:8080/
+</caption>
