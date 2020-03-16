@@ -10,6 +10,7 @@
 <caption>
 	This program can upload multiple images and view them as clickable thumbnails to enlarge them
 </caption>
+<br />
 <caption>
 	SERVER: http://localhost:8080/
 </caption>
