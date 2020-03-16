@@ -1,10 +1,10 @@
 # nodeProject
 
-INSTALL
+<h2>INSTALL</h2>
 <code> git clone https://github.com/Ehawk82/nodeProject.git </code>
 
-RUN
+<h2>RUN</h2>
 <code> npm run index </code>
 
-TEST
+<h2>TEST</h2>
 <caption>This program can upload multiple images and view them as clickable thumbnails to enlarge them</caption>
