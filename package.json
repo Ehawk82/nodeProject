@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/Ehawk82/nodeProject#readme",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "formidable": "^1.2.2",
     "text_audit": "^0.9.3"
   },
